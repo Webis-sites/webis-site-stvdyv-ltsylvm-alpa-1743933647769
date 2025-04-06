@@ -1,8 +1,11 @@
 {
-  "projectName": "סטודיו-לצילום-אלפא-3647",
-  "businessName": "סטודיו לצילום אלפא",
-  "created": "2025-04-06T10:00:47.812Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T10:01:30.569Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-stvdyv-ltsylvm-alpa-1743933647769"
 }
